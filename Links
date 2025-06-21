@@ -1,0 +1,16 @@
+Links:
+
+Amazon Review Data (2018)
+https://nijianmo.github.io/amazon/
+
+https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+
+Used for Electronics_5.json
+
+
+
+Stanford SNAP dataset:  (meta_Electronics.json download)
+
+http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Electronics.json.gz
+
+Used for meta_Electronics.json
